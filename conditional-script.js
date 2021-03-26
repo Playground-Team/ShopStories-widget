@@ -1,0 +1,5 @@
+/*
+this is used as a placeholder to conditionally render playground snippets
+due to the fact shopify does not allow you to remove assets programatically upon
+app uninstall... for now at least.
+*/
